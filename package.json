@@ -34,7 +34,7 @@
     "turbo": "^2.2.3",
     "typescript": "^5.5.4"
   },
-  "name": "sumone-design-system",
+  "name": "micro-fe",
   "packageManager": "yarn@4.5.1",
   "workspaces": [
     "packages/*"

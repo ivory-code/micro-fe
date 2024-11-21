@@ -1,1 +1,1 @@
-sumone-design-system/ui
+micro-fe/ui

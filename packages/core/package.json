@@ -1,5 +1,5 @@
 {
-  "name": "@sumone-ui/core",
+  "name": "@micro-fe/core",
   "version": "0.0.0",
   "sideEffects": false,
   "license": "MIT",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monymonydev/sumone-design-system.git"
+    "url": "https://github.com/ivory-code/micro-fe.git"
   },
   "scripts": {
     "build": "tsup",
