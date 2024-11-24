@@ -37,6 +37,7 @@
   "name": "micro-fe",
   "packageManager": "yarn@4.5.1",
   "workspaces": [
+    "apps/*",
     "packages/*"
   ]
 }
